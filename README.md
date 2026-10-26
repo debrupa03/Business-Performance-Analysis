@@ -1,4 +1,4 @@
-* Business Performance Analysis | Power BI & Excel MIS *
+Business Performance Analysis | Power BI & Excel MIS
 
 *Project Overview*
 
